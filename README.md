@@ -26,4 +26,4 @@ Authors:
 - Miguel Miranda (@mmiranda96)
 - Rosa Ramírez (@rosamariaramirez)
 
-Titles corpus are from [saurabhmathur96's clickbait detector] (https://github.com/saurabhmathur96/clickbait-detector).
+Titles corpus are from [saurabhmathur96's clickbait detector](https://github.com/saurabhmathur96/clickbait-detector).
