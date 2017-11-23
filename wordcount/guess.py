@@ -1,7 +1,6 @@
 import re
 import redis
 
-from neo4j.v1 import GraphDatabase, basic_auth
 from nltk import SnowballStemmer, word_tokenize
 from nltk.corpus import stopwords
 
